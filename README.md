@@ -1,5 +1,5 @@
-<h4>👋 Olá mundo! sou estudante na aréa de desenvolvimento de software, tenho 24 anos e resido em Recife-pe.</h4>
-<h5> ⊶  Disponivel para projetos  ⊶  Ela/Dela  ⊶  Tenho a arte como robby  ⊶  Mãe de Pet  ⊶  Apaixonada por MPB ⊸</h5>
+<h3>👋 Olá mundo! sou estudante na aréa de desenvolvimento de software, tenho 24 anos e resido em Recife-pe.</h3>
+<h4> ⊶  Disponivel para projetos  ⊶  Ela/Dela  ⊶  Tenho a arte como robby  ⊶  Mãe de Pet  ⊶  Apaixonada por MPB ⊸</h4>
 
   <div align="center">
   <a href="https://github.com/isabelafariass">
